@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # --- 2. 페이지 타이틀 ---
-st.title("Streamlit 붕최미 엘리시아아 🔮")
+st.title("Streamlit 붕최미 엘리시아 🔮")
 st.subheader("HTML/CSS를 활용해 멋진 효과를 만들어 봐요!")
 st.markdown("---") # 구분선
 
