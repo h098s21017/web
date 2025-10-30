@@ -5,13 +5,13 @@ import pandas as pd
 
 # --- 1. 페이지 기본 설정 ---
 st.set_page_config(
-    page_title="Streamlit 원신",
+    page_title="Streamlit "붕괴",
     page_icon="🔮",
     layout="wide"
 )
 
 # --- 2. 페이지 타이틀 ---
-st.title("Streamlit 스커크 내 아내임 🔮")
+st.title("Streamlit 붕최미 엘리시아아 🔮")
 st.subheader("HTML/CSS를 활용해 멋진 효과를 만들어 봐요!")
 st.markdown("---") # 구분선
 
@@ -196,7 +196,7 @@ with col1:
 
 with col2:
     st.write("유튜브 동영상 예제")
-    st.video("https://youtu.be/rH3u84NrRz0?list=RDrH3u84NrRz0")
+    st.video("https://youtu.be/KFcER-rV4AM")
 
 # --- 10. 마무리 ---
 st.markdown("---")
